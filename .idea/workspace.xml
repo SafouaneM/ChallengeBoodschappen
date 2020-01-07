@@ -3,11 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="2f861ae1-4c30-49e6-a28f-c1a6477f4998" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/Opdracht 3/cs.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht 3/image/aardappelen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht 3/image/aardbei.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht 3/image/melk.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht 3/image/yoghurt.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Opdracht 3/opdracht3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht 4/formulier.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht 4/formulier2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Opdracht 4/formulier3.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Opdracht 3/index.php" beforeDir="false" />
     </list>
@@ -81,7 +79,7 @@
       <updated>1578387751563</updated>
       <workItem from="1578387752895" duration="1387000" />
       <workItem from="1578390005021" duration="3250000" />
-      <workItem from="1578398279141" duration="5582000" />
+      <workItem from="1578398279141" duration="13118000" />
     </task>
     <task id="LOCAL-00001" summary="Opdracht 2 11:16 7-1-2020">
       <created>1578392205059</created>
@@ -97,7 +95,14 @@
       <option name="project" value="LOCAL" />
       <updated>1578393438520</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Opdracht 3 bonus vraag">
+      <created>1578419938023</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1578419938025</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,6 +124,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Opdracht 2 11:16 7-1-2020" />
     <MESSAGE value="Opdracht 3 11:36 7-1-2020" />
-    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3 11:36 7-1-2020" />
+    <MESSAGE value="Opdracht 3 bonus vraag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Opdracht 3 bonus vraag" />
   </component>
 </project>
