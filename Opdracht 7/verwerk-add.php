@@ -5,7 +5,7 @@ $boodschap = $_POST['boodschap']; //variabele boodschap aangemaakt//
 
 //Data in database stoppen
 //1. Verbinding maken met de database
-$dbc = mysqli_connect('localhost', 'root', '', 'boodschappenlijst') or die ("Error connecting");
+$dbc = mysqli_connect('localhost', 'root', '', 'boodschappen') or die ("Error connecting");
 //2. Query schrijven
 $query = "INSERT INTO product VALUES (0, '$boodschap')"; //$boodschap is ingevoerde woord door gebruiker//
 //3. Query uitvoeren
